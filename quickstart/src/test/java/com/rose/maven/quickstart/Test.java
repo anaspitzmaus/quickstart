@@ -8,7 +8,8 @@ public class Test {
 
 	public static void main(String[] args) {
 		JCalendar jCal = new JCalendar();
-		JPanel pnl = new JPanel();
+
+		
 
 	}
 
